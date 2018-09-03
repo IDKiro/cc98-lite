@@ -10,4 +10,4 @@ Change style for cc98.
 
 ### Screen:
 
-![](https://github.com/IDKiro/cc98-lite/img/cc98-lite-1.png)
+![](https://raw.githubusercontent.com/IDKiro/cc98-lite/master/img/cc98-lite-1.png)
