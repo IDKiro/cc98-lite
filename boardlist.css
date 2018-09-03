@@ -1,0 +1,31 @@
+.anArea,
+.column,
+.hiddenContent {
+    background: #fff;
+    border-radius: 4px;
+}
+
+.boardListHead {
+    background: #fff;
+    border-bottom: solid 1px #f2f2f2;
+    border-radius: 4px;
+}
+
+.areaName,
+.areaName a {
+    color: #212121;
+}
+
+.expendBoardList {
+    color: #212121;
+    border-color: #212121;
+    ;
+}
+
+.boardGuide {
+    border-radius: 4px;
+}
+
+.greenBackdrop {
+    background: #9a9da2;
+}

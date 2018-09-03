@@ -1,0 +1,100 @@
+[style="width: 100%; overflow: hidden; max-height: 6rem; transition: max-height 1s;"] {
+    background: #fff;
+    border-radius: 4px;
+}
+
+.boardMessage {
+    background: #fff;
+    border: none
+}
+
+.bigPaper {
+    background: #fff;
+    border-top: none;
+    border-bottom: none;
+    border-left: #f2f2f2 solid 1px;
+    border-right: none;
+}
+
+.boardMessage img {
+    background: #9a9da2;
+}
+
+.boardMessage {
+    color: #212121;
+}
+
+.bgcolor {
+    background: #9a9da2;
+}
+
+.button {
+    height: 3rem;
+    line-height: 3rem;
+    border-radius: 5px;
+}
+
+.chooseTag {
+    border: #9a9da2;
+}
+.page-link {
+    border-radius: 4px;
+    color: #212121;
+}
+.page-link:hover {
+    border-radius: 4px;
+    background-color: #9a9da2;
+}
+.page-link.active {
+    border-radius: 4px;
+    background-color: #9a9da2;
+}
+
+.page-goto a {
+    background-color: #9a9da2;
+    border-radius: 4px;
+}
+
+.page-goto div {
+    border-radius: 4px;
+}
+.tagColumn {
+    border: #fff;
+    border-radius: 4px;
+}
+
+.board-topBar {
+    background: #fff;
+}
+
+.listContentTag a {
+    color: #212121;
+}
+
+.board-topBar {
+    color: #212121;
+}
+
+#changeTopColor,
+#changeColor {
+    border-top: solid 1px #f2f2f2;
+}
+
+#changeColor:nth-child(even) {
+
+    background-color: #FCFCFC;
+}
+
+.boardRecordBtn {
+    background-color: #9a9da2;
+    border: 1px solid #9a9da2;
+    border-radius: 5px;
+}
+
+#changeTopColor {
+    background-color: #f2f2f2
+}
+
+[style="color: rgb(121, 184, 202);"] {
+    color: #9a9da2!important;
+}
